@@ -5,3 +5,4 @@ fix-buster-OS-reporting
 gcc9
 gcc9-Remove-GLib-2.32-deprecated-APIs-from-tools.patch
 gcc9-drop-obsolete-G_INLINE_FUNC.patch
+gcc9-GStaticRecMutex.patch
